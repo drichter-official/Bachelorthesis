@@ -21,7 +21,7 @@ This repository contains my **Bachelor Thesis in Physics**, where I explore the 
 - **Numerical Simulations** (Few-level quantum systems, Absorption Spectroscopy)  
 
 ## 📄 **Thesis Document**  
-You can find the full **PDF of my thesis** in this repository or request access.  
+You can find the full **PDF of my thesis** in this repository.  
 
 ## 📩 **Contact & Reference**  
 For further details, feel free to contact me.  
