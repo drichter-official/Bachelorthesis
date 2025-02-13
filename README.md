@@ -5,6 +5,7 @@
 **Research Conducted at:** Max Planck Institute for Nuclear Physics, Heidelberg  
 **Supervisor:** Prof. Dr. Thomas Pfeifer  
 **Year:** 2022  
+**Grade:** 1.4
 
 ## 📖 **Overview**  
 This repository contains my **Bachelor Thesis in Physics**, where I explore the use of **machine learning models** for reconstructing ultrafast **laser pulse properties** in **transient absorption spectroscopy**. The study compares different **supervised learning techniques**, including **decision trees, multi-layer perceptrons (MLPs), and convolutional neural networks (CNNs)**, to reconstruct pulse characteristics from absorption spectra under varying noise levels.
